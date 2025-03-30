@@ -1,12 +1,15 @@
-type: powerGenerator
+type: "squirrelmod-squirrel-reactor"
 name: squirrel-reactor
 localizedName: "Squirrel Reactor"
-description: "Vibrates to generate unstable ADHD energy."
+description: "Shakes its tail and generates chaotic energy."
 size: 2
+type: "squirrelmod-squirrel-reactor"
+
 requirements: [
-  { item: "copper", amount: 30 }
-  { item: "lead", amount: 20 }
+  { item: "copper", amount: 20 }
+  { item: "lead", amount: 10 }
 ]
-powerProduction: 2.5
+
+powerProduction: 3.0
 alwaysUnlocked: true
 category: power

@@ -1,0 +1,6 @@
+name: "squirrelmod"
+author: "Jack"
+displayName: "Squirrel Mod"
+version: "1.0"
+minGameVersion: "136"
+main: squirrelmod.SquirrelMod
