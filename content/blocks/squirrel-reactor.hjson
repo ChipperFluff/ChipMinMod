@@ -1,0 +1,12 @@
+type: powerGenerator
+name: squirrel-reactor
+localizedName: "Squirrel Reactor"
+description: "Vibrates to generate unstable ADHD energy."
+size: 2
+requirements: [
+  { item: "copper", amount: 30 }
+  { item: "lead", amount: 20 }
+]
+powerProduction: 2.5
+alwaysUnlocked: true
+category: power
