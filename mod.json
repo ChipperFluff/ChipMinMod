@@ -3,6 +3,6 @@
     "author": "Jack",
     "description": "Adds the squirrel reactor that vibrates out power.",
     "version": "1.0",
-    "minVersion": "136"
+    "minGameVersion": "136"
 }
   
